@@ -15,7 +15,7 @@ class CustomTextField extends StatelessWidget {
               onPressed: () {},
               icon: const Opacity(
                 opacity: 0.8,
-                child:  Icon(
+                child: Icon(
                   FontAwesomeIcons.magnifyingGlass,
                   size: 22,
                 ),
